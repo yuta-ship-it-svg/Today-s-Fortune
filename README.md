@@ -55,6 +55,6 @@
 ---
 
 ## スクリーンショット / GIF
-![作品のスクショ](images/screenshot1.gif)
-![作品のスクショ](images/screenshot2.gif)
-![作品のスクショ](images/screenshot3.gif)
+![作品のスクショ](Today_Lucky/screenshot1.gif)
+![作品のスクショ](Today_Lucky/screenshot2.gif)
+![作品のスクショ](Today_Lucky/screenshot3.gif)
